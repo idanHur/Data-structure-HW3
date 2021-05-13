@@ -1,0 +1,19 @@
+﻿  list.c
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\list.c(58): warning C4033: 'printList' must return a value
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\list.c(62): warning C4033: 'printList' must return a value
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\list.c(167): warning C4020: 'addCure': too many actual parameters
+  main.c
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(17): warning C4047: 'function': 'ptr *' differs in levels of indirection from 'ptr **'
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(17): warning C4024: 'createList': different types for formal and actual parameter 1
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(19): warning C4047: 'function': 'ptr' differs in levels of indirection from 'ptr *'
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(19): warning C4024: 'intToList': different types for formal and actual parameter 1
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(33): warning C4047: 'function': 'ptr' differs in levels of indirection from 'ptr *'
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(33): warning C4024: 'printList': different types for formal and actual parameter 1
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(37): warning C4047: 'function': 'ptr' differs in levels of indirection from 'ptr *'
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(37): warning C4024: 'addint': different types for formal and actual parameter 2
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(37): warning C4047: '=': 'ptr *' differs in levels of indirection from 'ptr'
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(39): warning C4047: 'function': 'ptr' differs in levels of indirection from 'ptr *'
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\main.c(39): warning C4024: 'printList': different types for formal and actual parameter 1
+  Generating Code...
+c:\users\רון שמעיה\onedrive\desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\q7_idan_hur_ron_shmaya\q7_idan_hur_ron_shmaya\list.c(95): warning C4715: 'printList': not all control paths return a value
+  Q7_Idan_Hur_Ron_Shmaya.vcxproj -> C:\Users\רון שמעיה\OneDrive\Desktop\תואר הנדסת תוכנה\שנה ב\שנה ב סמסטר 1\מבני נתונים-נקז 5\מטלה 3\Q7_Idan_Hur_Ron_Shmaya\Debug\Q7_Idan_Hur_Ron_Shmaya.exe

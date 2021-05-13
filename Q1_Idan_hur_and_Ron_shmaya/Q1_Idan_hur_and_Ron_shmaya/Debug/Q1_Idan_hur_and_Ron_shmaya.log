@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\idan1\source\repos\q1_idan_hur_and_ron_shmaya\q1_idan_hur_and_ron_shmaya\main.c(19): warning C4133: 'function': incompatible types - from 'QueueNode *' to 'queueinfo *'
+c:\users\idan1\source\repos\q1_idan_hur_and_ron_shmaya\q1_idan_hur_and_ron_shmaya\main.c(73): warning C4013: 'system' undefined; assuming extern returning int
+  Q1_Idan_hur_and_Ron_shmaya.vcxproj -> C:\Users\idan1\source\repos\Q1_Idan_hur_and_Ron_shmaya\Debug\Q1_Idan_hur_and_Ron_shmaya.exe
